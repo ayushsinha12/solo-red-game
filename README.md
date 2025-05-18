@@ -3,7 +3,7 @@
 > A single-player, text-based Java implementation of the Red7 card game featuring both basic and advanced rule engines within an MVC architecture.
 
 ---
-#Full Game Explanation
+# Full Game Explanation
 ## 🔴 What is Solo Red?
 
 **Solo Red** is a text-based, single-player card game inspired by the real-world game **Red7**. The goal is to stay **“winning”** at the end of your turn under the current rule (determined by a canvas card’s color). If you ever fail to meet the rule you lose. If you survive the entire deck, you win.
