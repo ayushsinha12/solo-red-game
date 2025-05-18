@@ -208,7 +208,7 @@ test/cs3500/solored/
 │   └─ Tests card comparison, equality, and sorting
 └── ViewTest.java
     └─ Verifies console output of the text view
-'''
+```
 
 ## ▶️ How to Run the Game
 
