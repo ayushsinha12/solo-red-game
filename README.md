@@ -93,7 +93,7 @@ This project follows the **Model-View-Controller** pattern:
 
 ---
 
-## 🧠 Game Features (Explained in Depth)
+## 🧠 Game Features
 
 ### 🔄 Palette System
 
@@ -208,15 +208,15 @@ test/cs3500/solored/
 │   └─ Tests card comparison, equality, and sorting
 └── ViewTest.java
     └─ Verifies console output of the text view
-```
+'''
 
 ## ▶️ How to Run the Game
 
-1. **Open** this project in IntelliJ IDEA.  
+1. **Compile and run** using **any Java IDE or the `javac`/`java` commands**.  
 2. **Locate and open** `SoloRed.java`.  
 3. **Run** the `main` method.  
 4. **When prompted**, use the following commands:  
    - **`palette`**: play a card to your palette  
    - **`canvas`**: play a card to change the rule  
    - **Index numbers**: enter the number corresponding to a card in your hand or palette  
-   - **`q`**: quit the game 
+   - **`q`**: quit the game  
