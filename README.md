@@ -165,7 +165,7 @@ src/cs3500/solored/
 
 ├── controller/
 │   ├── RedGameController.java
-│   │   └─ Interface defining the `playGame()` method
+│   │   └─ Interface defining the 'playGame()' method
 │   └── SoloRedTextController.java
 │       └─ Reads user input, validates moves, runs the game loop, handles quitting
 
